@@ -1,4 +1,4 @@
-dev: prodcut-dev
+env: prodcut-dev
 eureka:
   client:
     service-url:
